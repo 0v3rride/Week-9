@@ -43,6 +43,9 @@
   * Number of attacks: 
   * Origin Sources: 
   * 
-  
+ 
+ 
+# Resources
+[Sensor type info](https://github.com/threatstream/mhn/wiki/List-of-Supported-Sensors)
   
   
