@@ -4,7 +4,7 @@
 ## Overall Stats ![]()
 ## Detailed Attack Data ![]()
 
-## Info - Honeypot 1 (mhn-2):
+## Honeypot 1 (mhn-2):
 * Type: 
   * Conpot 
 * Data collected:
@@ -12,7 +12,7 @@
   * Origin Sources: USA, Canada, Netherlands
   * No malware samples were collected by this pot.
   
-## Info - Honeypot 2 (mhn-3):
+## Honeypot 2 (mhn-3):
 * Type:
   * Elastic Honey 
 * Data collected:
@@ -20,7 +20,7 @@
   * Origin Sources: USA
   * No malware samples were collected by this pot.
   
-## Info - Honeypot 3 (mhn-4):
+## Honeypot 3 (mhn-4):
 * Type:
   * Dionaea with HTTP 
 * Data collected:
@@ -28,7 +28,7 @@
   * Origin Sources: USA, Canada, Mexico, Brazil, United Kingdom, France, Netherlands, Croatia, Germany, Poland, Bulgaria, Egypt, Australia, Japan, Indonesia, China, Vietnam, Iran, Turkey, South Korea, Ukraine, Romania, Switzerland, Russia, etc.
   * 
   
-## Info - Honeypot 4 (mhn-5):
+## Honeypot 4 (mhn-5):
 * Type:
   * Snort
 * Data collected:
@@ -36,7 +36,7 @@
   * Origin Sources: 
   * 
   
-## Info - Honeypot 5 (mhn-6):
+## Honeypot 5 (mhn-6):
 * Type:
   * Suricata
 * Data collected:
@@ -46,6 +46,6 @@
  
  
 # Resources
-[Sensor type info](https://github.com/threatstream/mhn/wiki/List-of-Supported-Sensors)
+[Sensor Types](https://github.com/threatstream/mhn/wiki/List-of-Supported-Sensors)
   
   
