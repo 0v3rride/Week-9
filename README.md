@@ -15,7 +15,7 @@
 * Data collected:
   * Number of attacks: 3,169
   * Origin Sources: USA, Canada, Mexico, Brazil, United Kingdom, France, Netherlands, Croatia, Germany, Poland, Bulgaria, Egypt, Australia, Japan, Indonesia, China, Vietnam, Iran, Turkey, South Korea, Ukraine, Romania, Switzerland, Russia, etc.
-  * 
+  * No payload or signatures samples were collected by this sensor.
   
 ## Honeypot 2 (mhn-5):
 * Type:
@@ -45,7 +45,7 @@
 * At some around the half way point of 2 days the number of attacks began to stagnate. On the morning of 4-16 I noticed that the MHN dashboard was displaying a lesser amount of cumulative attacks.
   * 8,151 attacks logged on the evening of 4-15
   * 7,837 attacks logged on the morning of 4-16
-* My only explanation as to why this may be occuring is because the MHN Server is recognizing duplicated data and removing it from the pool of data. I also noticed that the MHN Server updates the information on it every so often (hours) however I'm not sure what the exact number is. I noticed this, because I originally had 2 other sensors on two seperate VMs set up. They remained the MHN Server home page for a couple of hours until I removed them and destroyed the VMs they were on and noticed that they were suddenly not there anymore. 
+* My only explanation as to why this may be occuring is because the MHN Server is recognizing duplicated data and removing it from the pool of data. I also noticed that the MHN Server updates the information on it every so often (hours) however I'm not sure what the exact number is. I noticed this, because I originally had 2 other sensors on two seperate VMs set up. They remained on my MHN Server's home page for a couple of hours until I removed them and destroyed the VMs they were on and noticed that they were suddenly gone a couple of hours later. 
  
 # Resources
 [Sensor Types](https://github.com/threatstream/mhn/wiki/List-of-Supported-Sensors)
