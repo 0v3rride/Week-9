@@ -33,7 +33,8 @@
   * Origin Sources: USA, Germany, Russia, Netherlands, Sweden, China, etc.
   * Payload Samples Collected: About 6,374
    *
- 
+## Unanswered Question
+* At some around the half way point of 2 days the number of attacks began to stagnate. On the morning of 4-16 I noticed that the MHN dashboard was displaying a lesser amount of cumulative attacks ()
  
 # Resources
 [Sensor Types](https://github.com/threatstream/mhn/wiki/List-of-Supported-Sensors)
