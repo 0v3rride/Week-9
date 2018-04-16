@@ -22,8 +22,12 @@
   * Snort
 * Data collected:
   * Number of attacks: 821
-  * Origin Sources: USA, Russia, China, Romania, 
-  * 
+  * Origin Sources: USA, Russia, China, Romania, France, Germany, etc.
+  * Payload/Signature Samples Collected: About 1,410
+    * Some Samples:
+      * ET DROP Spamhaus DROP Listed Traffic Inbound group 33
+      * ET CINS Active Threat Intelligence Poor Reputation IP TCP group 4
+      * ET DROP Dshield Block Listed Source group 1
   
 ## Honeypot 3 (mhn-6):
 * Type:
@@ -31,8 +35,12 @@
 * Data collected:
   * Number of attacks: 4,143
   * Origin Sources: USA, Germany, Russia, Netherlands, Sweden, China, etc.
-  * Payload Samples Collected: About 6,374
-    *
+  * Payload/Signature Samples Collected: About 6,374
+    * Some Samples:
+      * ET POLICY Python-urllib/ Suspicious User Agent
+      * ET CINS Active Threat Intelligence Poor Reputation IP TCP group 4
+      * ET DROP Dshield Block Listed Source group 1
+     
 ## Unanswered Question
 * At some around the half way point of 2 days the number of attacks began to stagnate. On the morning of 4-16 I noticed that the MHN dashboard was displaying a lesser amount of cumulative attacks.
   * 8,151 attacks logged on the evening of 4-15
