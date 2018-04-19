@@ -6,7 +6,7 @@
 ## Detailed Attack Data ![Attack Data](https://github.com/0v3rride/Week-9/blob/master/Detailed_Attack_Data.gif)
 
 ## Information:
-* Pots were setup and ran on 4-14 until 4-16.
+* Pots were set up and ran on 4-14 until 4-16.
  * I noticed that no new data was being collected by any of them on the morning of 4-16.
  
 ## Honeypot 1 (mhn-4):
